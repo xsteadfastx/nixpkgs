@@ -2944,6 +2944,14 @@
     githubId = 3229981;
     name = "Duncan Fairbanks";
   };
+  BonusPlay = {
+    name = "Bonus";
+    email = "nixos@bonusplay.pl";
+    matrix = "@bonus:bonusplay.pl";
+    github = "BonusPlay";
+    githubId = 8405359;
+    keys = [ { fingerprint = "8279 6487 A4CA 2A28 E8B3  3CD6 C7F9 9743 6A20 4683"; } ];
+  };
   booklearner = {
     name = "booklearner";
     email = "booklearner@proton.me";
@@ -18490,6 +18498,11 @@
     githubId = 56157634;
     name = "Ruben Hönle";
   };
+  rubikcubed = {
+    github = "rubikcubed";
+    githubId = 91467402;
+    name = "rubikcubed";
+  };
   ruby0b = {
     github = "ruby0b";
     githubId = 106119328;
@@ -23786,6 +23799,13 @@
     github = "Zimmi48";
     githubId = 1108325;
     name = "Théo Zimmermann";
+  };
+  zimward = {
+    name = "zimward";
+    github = "zimward";
+    githubId = 96021122;
+    matrix = "@memoryfragmentation:matrix.org";
+    keys = [ { fingerprint = "CBF7 FA5E F4B5 8B68 5977  3E3E 4CAC 61D6 A482 FCD9"; } ];
   };
   zlepper = {
     name = "Rasmus Hansen";
